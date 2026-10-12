@@ -1,0 +1,10 @@
+{
+  "description": "Discover personalized donation options in under 5 minutes with tailored recommendations based on your income and preferences, empowering first-time givers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
